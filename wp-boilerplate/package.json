@@ -1,0 +1,19 @@
+{
+  "name": "wp_boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for WordPress themes",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bricks-mortar/wp-boilerplate.git"
+  },
+  "author": "Dane Grant",
+  "license": "(C) Copyright 2015 Bricks & Mortar Creative",
+  "bugs": {
+    "url": "https://github.com/bricks-mortar/wp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/bricks-mortar/wp-boilerplate#readme"
+}
